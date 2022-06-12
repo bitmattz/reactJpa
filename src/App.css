@@ -41,8 +41,43 @@ body{
   padding: 10px;
 
 }
+.btnAlterar{
+  background: var(--NavColor);
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.btnAlterar:hover{
+  background: var(--NavColor);
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.btnRemover{
+  background-color: rgb(227, 78, 78);
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 2vw;
+}
+.btnRemover:hover{
+  background-color: rgb(241, 100, 100);
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
 .image{
   border: 2px solid black;
+  width: 150px;
 }
 .other-info{
   padding: 10px;

@@ -10,6 +10,10 @@
 .nav-container div{
   margin: 0px 20px;
 }
+.nav-container div a{
+  margin-left: 10px;
+  margin-right: 10px;
+}
 
 .Logo h1{
   color: white;
